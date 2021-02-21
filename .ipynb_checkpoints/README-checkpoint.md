@@ -1,5 +1,5 @@
 # Smart Contracts With Solidity
-![BlockchainPic](https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-fin-pt-09-2020-u-c/-/raw/master/Homework/20-Solidity/Instructions/Images/smart-contract.png)
+![BlockchainPic](https://miro.medium.com/max/2410/1*xIzdc_FVszgB3cCaqMd5ZQ.png)
 
 This blockchain example creates an Ethereum-based Smart Contract which accepts Ether and divides it evenly among a hypothetical group of employees. This would allow a Human Resources department to pay employees quickly and efficiently.
 
